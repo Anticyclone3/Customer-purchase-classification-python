@@ -4,6 +4,8 @@
 
 This project demonstrates a complete **machine learning classification workflow** using Python and scikit-learn.
 
+Check out the project on Google colab :- https://colab.research.google.com/drive/19_Et1KX2JpfEWpykNntjLOPH0LtFMuf5?usp=sharing
+
 The project builds and evaluates two classification models:
 
 * **Logistic Regression**
